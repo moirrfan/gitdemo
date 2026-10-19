@@ -16,7 +16,9 @@
   <packaging>war</packaging>
   <name>Webapp</name>
   <description>Webapp.</description>
-
+<!--
+Build configuration starts here
+-->
   <build>
     <finalName>${project.artifactId}</finalName>
 
