@@ -11,6 +11,7 @@
   </parent>
   
 <!-- Packaging type for deployment -->
+<!-- Packaging type for deployment webapp -->
 
   <artifactId>webapp</artifactId>
   <packaging>war</packaging>
