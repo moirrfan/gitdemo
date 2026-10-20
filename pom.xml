@@ -12,6 +12,8 @@
   <url>http://www.example.com</url>
   
   <!-- Packaging type for deployment -->
+  <!-- Packaging type for deployment webapp1-->
+  
 
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
